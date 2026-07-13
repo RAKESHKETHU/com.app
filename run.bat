@@ -1,0 +1,2 @@
+D:
+mvn clean install
