@@ -1,53 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-07-13T12:26:06 IST" name="Suite" finished-at="2026-07-13T12:26:37 IST" duration-ms="30673">
+  <suite started-at="2026-07-15T15:23:26 IST" name="Suite" finished-at="2026-07-15T15:23:51 IST" duration-ms="25576">
     <groups>
     </groups>
-    <test started-at="2026-07-13T12:26:06 IST" name="Test" finished-at="2026-07-13T12:26:37 IST" duration-ms="30673">
+    <test started-at="2026-07-15T15:23:26 IST" name="Test" finished-at="2026-07-15T15:23:51 IST" duration-ms="25576">
       <class name="com.tests.VerifyPageTitle">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tests.VerifyPageTitle@10e41621]" started-at="2026-07-13T12:26:33 IST" name="setUp" finished-at="2026-07-13T12:26:37 IST" duration-ms="4048" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tests.VerifyPageTitle@3e8c3cb]" started-at="2026-07-15T15:23:47 IST" name="setUp" finished-at="2026-07-15T15:23:51 IST" duration-ms="4038" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyPageTitle()[pri:0, instance:com.tests.VerifyPageTitle@10e41621]" started-at="2026-07-13T12:26:37 IST" name="verifyPageTitle" finished-at="2026-07-13T12:26:37 IST" duration-ms="11" status="PASS">
+        <test-method signature="verifyPageTitle()[pri:0, instance:com.tests.VerifyPageTitle@3e8c3cb]" started-at="2026-07-15T15:23:51 IST" name="verifyPageTitle" finished-at="2026-07-15T15:23:51 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyPageTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.VerifyPageTitle@10e41621]" started-at="2026-07-13T12:26:37 IST" name="tearDown" finished-at="2026-07-13T12:26:37 IST" duration-ms="197" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.VerifyPageTitle@3e8c3cb]" started-at="2026-07-15T15:23:51 IST" name="tearDown" finished-at="2026-07-15T15:23:51 IST" duration-ms="182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.tests.VerifyPageTitle -->
       <class name="com.tests.FillAndSubmitFormTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tests.FillAndSubmitFormTest@29626d54]" started-at="2026-07-13T12:26:06 IST" name="setUp" finished-at="2026-07-13T12:26:16 IST" duration-ms="9924" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tests.FillAndSubmitFormTest@17f62e33]" started-at="2026-07-15T15:23:26 IST" name="setUp" finished-at="2026-07-15T15:23:33 IST" duration-ms="6653" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="fillAndSubmitForm()[pri:0, instance:com.tests.FillAndSubmitFormTest@29626d54]" started-at="2026-07-13T12:26:16 IST" name="fillAndSubmitForm" finished-at="2026-07-13T12:26:19 IST" duration-ms="3374" status="PASS">
+        <test-method signature="fillAndSubmitForm()[pri:0, instance:com.tests.FillAndSubmitFormTest@17f62e33]" started-at="2026-07-15T15:23:33 IST" name="fillAndSubmitForm" finished-at="2026-07-15T15:23:36 IST" duration-ms="3464" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fillAndSubmitForm -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.FillAndSubmitFormTest@29626d54]" started-at="2026-07-13T12:26:19 IST" name="tearDown" finished-at="2026-07-13T12:26:20 IST" duration-ms="238" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.FillAndSubmitFormTest@17f62e33]" started-at="2026-07-15T15:23:36 IST" name="tearDown" finished-at="2026-07-15T15:23:36 IST" duration-ms="259" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.tests.FillAndSubmitFormTest -->
       <class name="com.tests.InteractwithAlertBox">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tests.InteractwithAlertBox@19bb07ed]" started-at="2026-07-13T12:26:20 IST" name="setUp" finished-at="2026-07-13T12:26:25 IST" duration-ms="5317" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tests.InteractwithAlertBox@793f29ff]" started-at="2026-07-15T15:23:36 IST" name="setUp" finished-at="2026-07-15T15:23:41 IST" duration-ms="4658" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="interactWithAlertBox()[pri:0, instance:com.tests.InteractwithAlertBox@19bb07ed]" started-at="2026-07-13T12:26:25 IST" name="interactWithAlertBox" finished-at="2026-07-13T12:26:32 IST" duration-ms="7266" status="PASS">
+        <test-method signature="interactWithAlertBox()[pri:0, instance:com.tests.InteractwithAlertBox@793f29ff]" started-at="2026-07-15T15:23:41 IST" name="interactWithAlertBox" finished-at="2026-07-15T15:23:47 IST" duration-ms="6021" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- interactWithAlertBox -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.InteractwithAlertBox@19bb07ed]" started-at="2026-07-13T12:26:32 IST" name="tearDown" finished-at="2026-07-13T12:26:33 IST" duration-ms="250" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.InteractwithAlertBox@793f29ff]" started-at="2026-07-15T15:23:47 IST" name="tearDown" finished-at="2026-07-15T15:23:47 IST" duration-ms="249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.tests.InteractwithAlertBox -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
+  <suite started-at="2026-07-15T15:23:52 IST" name="Suite (0)" finished-at="2026-07-15T15:23:58 IST" duration-ms="5887">
+    <groups>
+    </groups>
+    <test started-at="2026-07-15T15:23:52 IST" name="Test" finished-at="2026-07-15T15:23:58 IST" duration-ms="5887">
+      <class name="tests.FormTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FormTest@1caa0244]" started-at="2026-07-15T15:23:52 IST" name="setup" finished-at="2026-07-15T15:23:56 IST" duration-ms="4358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegistrationForm()[pri:0, instance:tests.FormTest@1caa0244]" started-at="2026-07-15T15:23:56 IST" name="verifyRegistrationForm" finished-at="2026-07-15T15:23:58 IST" duration-ms="1307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FormTest@1caa0244]" started-at="2026-07-15T15:23:58 IST" name="tearDown" finished-at="2026-07-15T15:23:58 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.FormTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
 </testng-results>
